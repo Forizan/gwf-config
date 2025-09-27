@@ -1,6 +1,12 @@
+<align="center"><b><size=28><color=#212529>- Release Notes: DEMO v07-8f -</color></size></b></align>
+<line-height=32%>
+\t28.09.2025:
+<line-height=100%>
+-\tSteam-Networking patch.
+
 <align="center"><b><size=28><color=#212529>- Release Notes: DEMO v07-8e -</color></size></b></align>
 <line-height=32%>
-\t27.09.2025:
+\t28.09.2025:
 <line-height=100%>
 -\tSteam-Networking patch.
 
