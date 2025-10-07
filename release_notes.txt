@@ -3,6 +3,15 @@
 \t06.10.2025:
 <line-height=100%>
 -\tAICHAT Service Improvements.
+-\tAdded new drink types.
+-\tKeybind mechanism improvements.
+-\tUI improvements.
+
+<align="center"><b><size=28><color=#212529>- Release Notes: DEMO v07-8h -</color></size></b></align>
+<line-height=32%>
+\t06.10.2025:
+<line-height=100%>
+-\tAICHAT Service Improvements.
 -\tAdded the option to view Okey tiles in an organized (aligned) layout.
 -\tFixed several bugs in the Okey game.
 
