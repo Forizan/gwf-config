@@ -5,6 +5,7 @@
 -\tChat UI updated, added emoji support.
 -\tPurchased new comfortable chairs and decorative posters for the "Central Coffee House".
 -\tPurchased "Playing Cards", nobody knows how to play them yet.
+-\tOverall performance and stability improved.
 
 <align="center"><b><size=28><color=#212529>- Release Notes: DEMO v07-9a -</color></size></b></align>
 <line-height=32%>
