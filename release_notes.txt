@@ -1,3 +1,18 @@
+<align="center"><b><size=28><color=#212529>- Release Notes: DEMO v08-0 -</color></size></b></align>
+<line-height=32%>
+\t27.01.2026:
+<line-height=100%>
+-\tPishti added, including a new Bluff Mode for strategic play.
+-\tGame creation UI redesigned for clarity and speed.
+-\tIn-game UI improvements made.
+-\tMinor Okey gameplay tweaks to improve flow.
+-\tKick player feature added; hosts now have full table control.
+-\tCoffee House map optimized for better stability and performance.
+-\tIn-game chat readability improvements applied.
+-\tAI Chat improved with better responsiveness and interactions.
+-\tMajor backend and infrastructure improvements, laying the groundwork for future features.
+-\tOverall performance and stability improved.
+
 <align="center"><b><size=28><color=#212529>- Release Notes: DEMO v07-9b -</color></size></b></align>
 <line-height=32%>
 \t28.10.2025:
