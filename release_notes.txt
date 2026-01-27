@@ -1,3 +1,9 @@
+<align="center"><b><size=28><color=#212529>- Release Notes: DEMO v08-0b -</color></size></b></align>
+<line-height=32%>
+\t27.01.2026:
+<line-height=100%>
+-\tClient patch.
+
 <align="center"><b><size=28><color=#212529>- Release Notes: DEMO v08-0 -</color></size></b></align>
 <line-height=32%>
 \t27.01.2026:
