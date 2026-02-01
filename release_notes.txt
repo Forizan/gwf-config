@@ -1,3 +1,11 @@
+<align="center"><b><size=28><color=#212529>- Release Notes: DEMO v08-1 -</color></size></b></align>
+<line-height=32%>
+\t01.02.2026:
+<line-height=100%>
+-\tServer performance update.
+-\tUI Improvements.
+-\tOverall performance and stability improved.
+
 <align="center"><b><size=28><color=#212529>- Release Notes: DEMO v08-0d -</color></size></b></align>
 <line-height=32%>
 \t30.01.2026:
