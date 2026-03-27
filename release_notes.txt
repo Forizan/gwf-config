@@ -1,3 +1,12 @@
+<align="center"><b><size=28><color=#212529>- Release Notes: EarlyAccess v09-0c -</color></size></b></align>
+<line-height=32%>
+\t27.03.2026:
+<line-height=100%>
+-\tBeta rank season has started.
+-\tWe have introduced a scalable server infrastructure.
+-\tUI Improvements.
+-\tOverall performance and stability improved.
+
 <align="center"><b><size=28><color=#212529>- Release Notes: DEMO v08-2b -</color></size></b></align>
 <line-height=32%>
 \t21.02.2026:
