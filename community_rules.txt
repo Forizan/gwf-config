@@ -3,39 +3,39 @@
 1. Saygılı Olun
 
 * Şahıslara yönelik hakaret, küfür ve aşağılayıcı ifadeler yasaktır.
-  Ceza: 10 gün sohbet yasağı
+  Ceza: sohbet yasağı
 * Aile bireylerine veya manevi değerlere küfür edilmesi kesinlikle yasaktır.
-  Ceza: 30 gün sohbet yasağı
+  Ceza: sohbet yasağı
 * Nefret söylemi, tehdit ve taciz içeren davranışlar yasaktır.
-  Ceza: 15–30 gün sohbet yasağı (duruma göre kalıcı yasak uygulanabilir)
+  Ceza: sohbet yasağı (duruma göre kalıcı yasak uygulanabilir)
 
 2. Spam ve Reklam Yasağı
 
 * Anlamsız, tekrar eden veya sohbeti bozacak mesajlar (spam) yasaktır.
-  Ceza: 3–7 gün sohbet yasağı
+  Ceza: sohbet yasağı
 * Reklam, izinsiz tanıtım ve link paylaşımı yasaktır.
-  Ceza: 7–15 gün sohbet yasağı
+  Ceza: sohbet yasağı
 
 3. Gizlilik Kuralları
 
 * Kişisel bilgilerin (telefon numarası, adres vb.) paylaşılması yasaktır.
-  Ceza: 15 gün sohbet yasağı
+  Ceza: sohbet yasağı
 * Başkalarının bilgilerini izinsiz paylaşmak ciddi ihlaldir.
-  Ceza: 30 gün sohbet yasağı veya kalıcı yasak
+  Ceza: sohbet yasağı veya kalıcı yasak
 * Moderatör kararlarına uymamak yasaktır.
-  Ceza: 5–10 gün sohbet yasağı
+  Ceza: sohbet yasağı
 
 4. Kışkırtıcı Davranışlar
 
 * Tartışma çıkarmaya yönelik provoke edici davranışlar yasaktır.
-  Ceza: 5 gün sohbet yasağı
+  Ceza: sohbet yasağı
 * Moderatörlere veya oyunculara karşı saygısız, alaycı tutumlar yasaktır.
-  Ceza: 7–15 gün sohbet yasağı
+  Ceza: sohbet yasağı
 
 5. Büyük Harf Kullanımı
 
 * Sürekli büyük harf kullanarak bağırma (flood/rahatsız etme) yasaktır.
-  Ceza: 1–3 gün sohbet yasağı
+  Ceza: sohbet yasağı
 
 6. Ek Notlar
 
